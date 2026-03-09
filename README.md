@@ -6,7 +6,9 @@ $ whoami
 System Services
 
 • [X] Operational Architecture: Engineering scalable support frameworks.
+
 • [X] Logic Validation: Stress-testing workflows for system integrity.
+
 • [X] High-Tier Documentation: Authoring verified SOPs and KBs.
 
 Mission Status
