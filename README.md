@@ -18,4 +18,5 @@ Logic proven. Support leveled.
 src: Connect
 
 LinkedIn: linkedin.com/in/stephanierwilder
+
 Email: srwilder559@gmail.com
